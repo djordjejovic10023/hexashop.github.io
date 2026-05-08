@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "title": "Shipping all over the world",
+        "text": "We deliver our streetwear to customers around the globe. Wherever you are, our gear arrives right at your doorstep. So dont worry if you are not near us.",
+        "img": "assets/images/service-01.jpg"
+    },
+    {
+        "id":2,
+        "title": "Custom Design Requests",
+        "text": "Work with our team to create unique pieces tailored to your vision. From special prints to exclusive colorways, we make your ideas wearable.",
+        "img": "assets/images/service-02.jpg"
+    },
+    {
+        "id":3,
+        "title": "Exclusive Drops & Preorders",
+        "text": "Get early access to limited-edition releases before they sell out. Join our preorder list and secure your style ahead of the crowd.",
+        "img": "assets/images/service-03.jpg"
+    }
+]

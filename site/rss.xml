@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Hexashop</title>
+    <link>https://djox23.github.io/hexashop.github.io/index.html</link>
+    <description>Latest products and updates from our store</description>
+    <language>en-us</language>
+
+    <item>
+      <title>Classic Spring</title>
+      <link>https://djox23.github.io/hexashop.github.io/products.html</link>
+      <description>Trend-forward camo jacket for men. Price: $120</description>
+      <pubDate>Fri, 8 May 2026 12:00:00 +0200</pubDate>
+    </item>
+
+    <item>
+      <title>Air Force 1 X</title>
+      <link>https://djox23.github.io/hexashop.github.io/products.html</link>
+      <description>Elegant classic denim jacket. Price: $90</description>
+      <pubDate>Fri, 8 May 2026 12:05:00 +0200</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+[
+    {
+        "link": "index.html",
+        "name": "Home"
+    },
+    {
+        "link": "products.html",
+        "name": "Products"
+    },
+    {
+        "link": "contact.html",
+        "name": "Contact Us"
+    },
+    {
+        "link": "about.html",
+        "name": "About Us"
+    },
+    {
+        "link": "autor.html",
+        "name": "Author"
+    },
+    {
+        "link": "documentation.pdf",
+        "name": "Documentation"
+    },
+    {
+        "link": "cart.html",
+        "name": "Cart"
+    }
+]

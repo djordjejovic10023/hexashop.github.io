@@ -1,0 +1,92 @@
+[
+    {
+        "id":1,
+        "img": "assets/images/men-01.jpg", 
+        "title": "Classic Spring", 
+        "price": 120.00,
+        "brandID": 5,
+        "catID": 2,
+        "group": 1,
+        "discount": null
+    },
+    {
+        "id":2,
+        "img": "assets/images/men-02.jpg", 
+        "title": "Air Force 1 X", 
+        "price": 90.00,
+        "brandID": 3,
+        "catID": 2,
+        "group": 1,
+        "discount": null
+    },
+    {
+        "id":3,
+        "img": "assets/images/men-03.jpg", 
+        "title": "Love Nana ‘20", 
+        "price": 150.00,
+        "brandID": 2,
+        "catID": 1,
+        "group": 1,
+        "discount": 25
+    },
+    {
+        "id":4,
+        "img": "assets/images/women-01.jpg", 
+        "title": "New Green Jacket", 
+        "price": 75.00,
+        "brandID": 1,
+        "catID": 2,
+        "group": 2,
+        "discount": null
+    },
+    {
+        "id":5,
+        "img": "assets/images/women-02.jpg", 
+        "title": "Classic Dress", 
+        "price": 45.00,
+        "brandID": 3,
+        "catID": 3,
+        "group": 2,
+        "discount": null
+    },
+    {
+        "id":6,
+        "img": "assets/images/women-03.jpg", 
+        "title": "Spring Collection", 
+        "price": 130.00,
+        "brandID": 1,
+        "catID": 4,
+        "group": 2,
+        "discount": 30
+    },
+    {
+        "id":7,
+        "img": "assets/images/kid-01.jpg", 
+        "title": "School Collection", 
+        "price": 80.00,
+        "brandID": 4,
+        "catID": 3,
+        "group": 3,
+        "discount": 15
+    },
+    {
+        "id":8,
+        "img": "assets/images/kid-02.jpg", 
+        "title": "Summer Cap", 
+        "price": 12.00,
+        "brandID": 4,
+        "catID": 4,
+        "group": 3,
+        "discount": null
+    },
+    {
+        "id":9,
+        "img": "assets/images/kid-03.jpg", 
+        "title": "Classic Kid", 
+        "price": 30.00,
+        "brandID": 4,
+        "catID": 1,
+        "group": 3,
+        "discount": null
+    }
+]
